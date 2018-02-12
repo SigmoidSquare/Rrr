@@ -1,0 +1,26 @@
+{
+  "file": "https://github.com/SigmoidSquare/Rrr/blob/master/Combination%20tests%20of%20rural%20data.csv",
+  "name": "Rural combo",
+  "header": 0,
+  "separator": ";",
+  "skip": 0,
+  "meta": [
+    {
+      "type": "integer",
+      "index": 0,
+      "name": "year"
+    },
+    {
+      "type": "id",
+      "index": 1,
+      "name": "RID"
+    }
+  ],
+  "sets": [
+    {
+      "format": "binary",
+      "start": 2,
+      "end": 8
+    }
+  ]
+}
